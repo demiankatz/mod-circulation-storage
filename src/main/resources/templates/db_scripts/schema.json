@@ -39,6 +39,14 @@
           "caseSensitive": false,
           "removeAccents": true
         }
+      ],
+      "index": [
+        {
+          "fieldName": "id",
+          "tOps": "ADD",
+          "caseSensitive": true,
+          "removeAccents": false
+        }
       ]
     },
     {
