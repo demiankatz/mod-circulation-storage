@@ -1,3 +1,4 @@
+@Library ('folio_jenkins_shared_libs@folio-1027-ci-lint-raml-cop-2') _
 
 
 buildMvn {
